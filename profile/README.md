@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://clean-click.de/favicon-96x96.png" alt="Clean-Click Logo" width="80" height="80">
+  <img src="https://onecdn.io/media/290dfa1e-b110-4e93-b06b-4aa1788af424/md2x" alt="Clean-Click Logo" width="80" height="80">
 </p>
 
 <h1 align="center">Clean-Click.de</h1>
